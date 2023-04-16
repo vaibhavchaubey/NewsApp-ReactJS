@@ -1,32 +1,266 @@
 {
   "status": "ok",
-  "totalResults": 2,
+  "totalResults": 38,
   "articles": [
-    {
-      "source": {
-        "id": "espn-cric-info",
-        "name": "ESPN Cric Info"
+      {
+          "source": {
+              "id": null,
+              "name": "The Indian Express"
+          },
+          "author": "The Indian Express",
+          "title": "Volcanic eruptions could be ruining our ability to predict climate change - The Indian Express",
+          "description": null,
+          "url": "https://indianexpress.com/article/technology/science/volcanic-eruptions-climate-change-prediction-8557252/",
+          "urlToImage": null,
+          "publishedAt": "2023-04-15T04:10:49Z",
+          "content": null
       },
-      "author": null,
-      "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
-      "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
-      "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
-      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
-      "publishedAt": "2020-04-27T11:41:47Z",
-      "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
-    },
-    {
-      "source": {
-        "id": "espn-cric-info",
-        "name": "ESPN Cric Info"
+      {
+          "source": {
+              "id": null,
+              "name": "NDTV News"
+          },
+          "author": null,
+          "title": "12 Dead, Several Injured As Bus From Pune To Mumbai Falls Into Gorge: Police - NDTV",
+          "description": "At least 12 persons were killed and 27 others injured after the bus they were travelling in fell into a gorge on the old Mumbai-Pune highway in Raigad district of Maharashtra early on Saturday, police said.",
+          "url": "https://www.ndtv.com/india-news/raigad-bus-accident-8-dead-several-injured-as-bus-from-pune-to-mumbai-falls-into-gorge-say-cops-3949788",
+          "urlToImage": "https://c.ndtvimg.com/2023-04/0j3rf96_pune-mumbai-bus-accident-in-raigad-maharashtra_625x300_15_April_23.jpg",
+          "publishedAt": "2023-04-15T04:01:55Z",
+          "content": "The private bus was going from Pune to Mumbai when it fell into the gorge near Shingroba temple.\r\nMumbai: At least 12 persons were killed and 27 others injured after the bus they were travelling in f… [+1323 chars]"
       },
-      "author": null,
-      "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
-      "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
-      "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
-      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
-      "publishedAt": "2020-03-30T15:26:05Z",
-      "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
-    }
+      {
+          "source": {
+              "id": null,
+              "name": "CNBCTV18"
+          },
+          "author": "https://www.cnbctv18.com",
+          "title": "Tech This Week: ASUS Rog Phone 7, Realme Narzo N55, Sony's latest now in India - CNBCTV18",
+          "description": "Also, Dell launched its new Alienware and Inspiron laptops this week and Sony its latest WH-CH520 wireless headphones. Read for details and price tags.",
+          "url": "https://www.cnbctv18.com/technology/tech-this-week-asus-rog-phone-7-realme-narzo-n55-and-sonys-latest-now-in-india-16406681.htm",
+          "urlToImage": "https://images.cnbctv18.com/wp-content/uploads/2023/03/asus-1019x573.jpeg",
+          "publishedAt": "2023-04-15T04:00:41Z",
+          "content": "This week a few gadgets, including laptops, handsets and headphones from some top brands, were launched in India. ASUS unveiled the Rog Phone 7, its latest offering in the popular gaming phone series… [+2094 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Hindustan Times"
+          },
+          "author": "HT Sports Desk",
+          "title": "'I shut up Indian fans...': Brook answers 'rubbish' words with smashing century - Hindustan Times",
+          "description": "Brook minced no words in 'shutting up' the Indian fans who spoke 'rubbish' about him on social media for not being able to score in his first three IPL knocks. | Cricket",
+          "url": "https://www.hindustantimes.com/cricket/indian-fans-slagged-me-off-said-rubbish-things-harry-brook-glad-to-shut-them-with-maiden-ipl-century-vs-kkr-101681529079878.html",
+          "urlToImage": "https://www.hindustantimes.com/ht-img/img/2023/04/15/1600x900/brook_bhogle_1681529889896_1681529900459_1681529900459.png",
+          "publishedAt": "2023-04-15T03:44:00Z",
+          "content": "Harry Brook was one of the first to set the auction table on fire ahead of IPL 2023. The England youngster, whose rapid rise in the last 12 months or so has been a topic of discussion in internationa… [+2684 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "NDTV News"
+          },
+          "author": "Asian News International",
+          "title": "Watch: New Zealand's Matt Henry Derails Pakistan Innings With Hat-Trick In 1st T20I - NDTV Sports",
+          "description": "Matt Henry picked up a hat-trick spread across two overs in the first T20I against Pakistan in Lahore to join an elite group of New Zealand bowlers",
+          "url": "https://sports.ndtv.com/cricket/new-zealands-matt-henry-derails-pakistan-innings-with-hat-trick-in-1st-t20i-watch-3949862",
+          "urlToImage": "https://c.ndtvimg.com/2023-04/jfupt27_matt-henry-806_625x300_15_April_23.jpg",
+          "publishedAt": "2023-04-15T03:39:15Z",
+          "content": "Matt Henry picked up a hat-trick spread across two overs in the first T20I against Pakistan in Lahore to join an elite group of New Zealand bowlers. Henry had derailed Pakistan's innings in the 13th … [+1480 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "NDTV News"
+          },
+          "author": null,
+          "title": "\"Give Us 35 Seats And Mamata Banerjee Will Be Out\": Amit Shah In Bengal - NDTV",
+          "description": "While the BJP is yet to kick off its campaign in West Bengal, the party is already in action mode with Union Home Minister Amit Shah setting the tone ahead of the 2024 Lok Sabha election in the state.",
+          "url": "https://www.ndtv.com/india-news/give-us-35-seats-and-mamata-banerjee-will-be-out-amit-shah-in-bengal-3949859",
+          "urlToImage": "https://c.ndtvimg.com/2023-04/d4fo9fr8_amit-shah-ani_625x300_15_April_23.jpg",
+          "publishedAt": "2023-04-15T03:38:34Z",
+          "content": "In 2019, the BJP won 18 seats in West Bengal.\r\nKolkata: While the BJP is yet to kick off its campaign in West Bengal, the party is already in action mode with Union Home Minister Amit Shah setting th… [+3178 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "NDTV News"
+          },
+          "author": null,
+          "title": "Japan PM Unhurt After Blast During His Speech, Attacker Caught: Report - NDTV",
+          "description": "Japanese Prime Minister Fumio Kishida was evacuated from a port in Wakayama after a blast was heard, but he was unharmed in the incident, local media reported Saturday.",
+          "url": "https://www.ndtv.com/world-news/japan-prime-minister-fumio-kishida-evacuated-after-blast-during-his-speech-in-wakayama-local-media-3949826",
+          "urlToImage": "https://c.ndtvimg.com/2023-04/0u4t8puo_fumio-kishida-afp_625x300_15_April_23.jpg",
+          "publishedAt": "2023-04-15T03:37:00Z",
+          "content": "Japanese Prime Minister Fumio Kishida was evacuated after a blast was heard.\r\nTokyo, Japan: Japanese Prime Minister Fumio Kishida was evacuated from a port in Wakayama after a blast was heard, but he… [+1024 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Hindustan Times"
+          },
+          "author": "Mallika Soni",
+          "title": "How much does Donald Trump earn post US-presidency? Details - Hindustan Times",
+          "description": "Donald Trump News: The value of his holdings in his Twitter-like Truth Social website was $25 million to $50 million. | World News",
+          "url": "https://www.hindustantimes.com/world-news/donald-trump-income-donald-trump-news-how-much-does-donald-trump-earn-post-us-presidency-details-101681519050161.html",
+          "urlToImage": "https://www.hindustantimes.com/ht-img/img/2023/04/15/1600x900/USA-TRUMP-NEW-YORK-CIVIL-15_1681393285693_1681393285693_1681527129443_1681527129443.JPG",
+          "publishedAt": "2023-04-15T03:08:20Z",
+          "content": "Former US President Donald Trump's business empire is valued at a minimum of $1.2 billion, a federal document showed. Following his terms as US President, Donald Trump made money from speaking engage… [+1549 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Hindustan Times"
+          },
+          "author": "Aniruddha Dhar",
+          "title": "Kapil Sibal on CBI summons to Kejriwal: 'Persecution on course' - Hindustan Times",
+          "description": "The CBI summoned Arvind Kejriwal in connection with the excise policy scam case on April 16. | Latest News India",
+          "url": "https://www.hindustantimes.com/india-news/kapil-sibal-on-cbi-summons-to-arvind-kejriwal-persecution-on-course-101681525929295.html",
+          "urlToImage": "https://www.hindustantimes.com/ht-img/img/2023/04/15/1600x900/arvind-kejriwal-kapil-sibal-_1681527886133_1681527895365_1681527895365.jpg",
+          "publishedAt": "2023-04-15T03:06:34Z",
+          "content": "A day after the Central Bureau of Investigation or CBI summoned Arvind Kejriwal, Rajya Sabha MP Kapil Sibal on Saturday described the move by the probe agency as persecution. The CBI summoned Kejriwa… [+1717 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "The Indian Express"
+          },
+          "author": "Man Aman Singh Chhina",
+          "title": "As search for soldiers’ killers enters Day 3, Bathinda military station turns into a fort - The Indian Express",
+          "description": "The roads that lead into the military station have armed soldiers manning barricades. Only military vehicles with bonafide credentials are being allowed inside as the manhunt for the killer/killers of four soldiers entered its third day.",
+          "url": "https://indianexpress.com/article/india/as-search-for-soldiers-killers-enters-day-3-bathinda-military-station-turns-into-a-fort-8557044/",
+          "urlToImage": "https://images.indianexpress.com/2023/04/Bathinda-1-1.jpg",
+          "publishedAt": "2023-04-15T02:55:48Z",
+          "content": "Soldiers standing guard at heavily barricades gates, limited entry points, and CCTV cameras placed every few metres on the boundary walls, Bathinda Military stationappears to be fully secured against… [+3243 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Hindustan Times"
+          },
+          "author": "HT Entertainment Desk",
+          "title": "Anupam Kher recalls conversation with Satish Kaushik hours before his death - Hindustan Times",
+          "description": "Anupam Kher recalled his conversation with Satish Kaushik hours before his death. At the event hosted for Satish, both Anupam and Anil Kapoor broke down. | Bollywood",
+          "url": "https://www.hindustantimes.com/entertainment/bollywood/anupam-kher-recalls-satish-kaushik-telling-him-main-abhi-marne-waala-nahi-hoon-hours-before-death-anil-kapoor-weeps-101681525657110.html",
+          "urlToImage": "https://www.hindustantimes.com/ht-img/img/2023/04/15/1600x900/satish_kaushik_anupam_kher_1681358846904_1681526202160_1681526202160.jpg",
+          "publishedAt": "2023-04-15T02:44:34Z",
+          "content": "Actor Anupam Kher recently hosted a musical night to remember his late friend Satish Kaushik on his birth anniversary. The event also consisted of stories to celebrate Satish. The host for the night … [+2479 chars]"
+      },
+      {
+          "source": {
+              "id": "the-times-of-india",
+              "name": "The Times of India"
+          },
+          "author": "etimes.in",
+          "title": "Alia Bhatt sends internet into meltdown as she kisses Ranbir Kapoor in front of the paparazzi - See photo - Indiatimes.com",
+          "description": "Ranbir Kapoor and Alia Bhatt treated fans with PDA as they got clicked together by the paparazzi on their wedding a",
+          "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/alia-bhatt-sends-internet-into-meltdown-as-she-kisses-ranbir-kapoor-in-front-of-the-paparazzi-see-photos/articleshow/99506573.cms",
+          "urlToImage": "https://static.toiimg.com/thumb/msid-99506573,width-1070,height-580,overlay-toi_sw,pt-32,y_pad-40,resizemode-75,imgsize-40168/99506573.jpg",
+          "publishedAt": "2023-04-15T02:43:00Z",
+          "content": null
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Livemint"
+          },
+          "author": "Bloomberg",
+          "title": "Mukesh Ambani builds on record cricket views by adding over 100 films, TV series | Mint - Mint",
+          "description": "Mukesh Ambani's JioCinema will roll out new titles before the end of the IPL cricket next month, and viewers will still be able to watch matches for free until then",
+          "url": "https://www.livemint.com/companies/news/mukesh-ambani-builds-on-record-cricket-views-by-adding-over-100-films-tv-series-11681526053735.html",
+          "urlToImage": "https://www.livemint.com/lm-img/img/2023/04/15/600x338/Mukesh-Ambani_1681526368308_1681526368592_1681526368592.jpg",
+          "publishedAt": "2023-04-15T02:42:04Z",
+          "content": "Billionaire Mukesh Ambanis streaming service will add more than 100 films and TV series to its platform, building on the popularity of its cricket broadcasts in its push to take on global giants like… [+2440 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "NDTV News"
+          },
+          "author": null,
+          "title": "France's Controversial Pension Reform Becomes Law After Passing Court Test - NDTV",
+          "description": "French President Emmanuel Macron has promulgated his pension reform into law, including raising the retirement age to 64, according to a text published in the country's Official Journal early Saturday.",
+          "url": "https://www.ndtv.com/world-news/france-promulgates-controversial-pension-reform-into-law-3949794",
+          "urlToImage": "https://c.ndtvimg.com/2023-04/t2kfdbk_france-pension-law-protest-afp_625x300_15_April_23.jpg",
+          "publishedAt": "2023-04-15T02:32:00Z",
+          "content": "Paris, France: French President Emmanuel Macron has promulgated his pension reform into law, including raising the retirement age to 64, according to a text published in the country's Official Journa… [+351 chars]"
+      },
+      {
+          "source": {
+              "id": "the-times-of-india",
+              "name": "The Times of India"
+          },
+          "author": "AP",
+          "title": "Watch: European Space Agency launches Jupiter mission from French Guiana - Economic Times",
+          "description": "The European Space Agency (ESA) launched the Jupiter Icy Moons Explorer Mission from its Spaceport in French Guiana on Friday. The spacecraft rocketed away on a decade-long quest to explore Jupiter and three of its icy moons that could have buried oceans. It …",
+          "url": "https://economictimes.indiatimes.com/news/international/us/watch-european-space-agency-launches-jupiter-mission-from-french-guiana/videoshow/99506305.cms",
+          "urlToImage": "https://img.etimg.com/thumb/msid-99506305,width-1070,height-580,overlay-economictimes/photo.jpg",
+          "publishedAt": "2023-04-15T02:21:00Z",
+          "content": "The European Space Agency (ESA) launched the Jupiter Icy Moons Explorer Mission from its Spaceport in French Guiana on Friday. The spacecraft rocketed away on a decade-long quest to explore Jupiter a… [+240 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Odishatv.in"
+          },
+          "author": "Sangati Jogwar",
+          "title": "What is Circadian Diet? Who should avoid this type of diet? - OTV News",
+          "description": "Circadian diet is extremely good for overall fitness, losing weight and improving metabolism.",
+          "url": "https://odishatv.in/news/health/what-is-circadian-diet-who-should-avoid-this-type-of-diet--201610",
+          "urlToImage": "https://images.odishatv.in/uploadimage/library/16_9/16_9_5/recent_photo_1681399378.webp",
+          "publishedAt": "2023-04-15T02:20:36Z",
+          "content": "Losing extra kilos and maintaining health is the prime reason for following any type of diet. Be it calorie counting, the Mediterranean diet, or the keto diet, the aim is ultimately to stay fit and h… [+1923 chars]"
+      },
+      {
+          "source": {
+              "id": "the-times-of-india",
+              "name": "The Times of India"
+          },
+          "author": "Gourab Das",
+          "title": "Reliance’s JioCinema said to start charging for content by the end of IPL - Economic Times",
+          "description": "Viacom18's JioCinema plans to bulk up on content with more than 100 films and TV series to its platform to take on global biggies such as Netflix and Walt Disney, but this will come at a cost for consumers. In an interview to Bloomberg, Reliance's media and c…",
+          "url": "https://economictimes.indiatimes.com/industry/media/entertainment/ambani-builds-on-record-cricket-views-with-film-tv-offerings/articleshow/99506069.cms",
+          "urlToImage": "https://img.etimg.com/thumb/msid-99507932,width-1070,height-580,imgsize-2299143,overlay-economictimes/photo.jpg",
+          "publishedAt": "2023-04-15T02:14:00Z",
+          "content": "Reliance-owned JioCinema, the official digital streaming partner of cash-rich Indian Premier League, may soon start charging you for its content, digressing from tycoon Mukesh Ambani's strategy to of… [+4213 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Hindustan Times"
+          },
+          "author": "HT Tech",
+          "title": "Quordle 446 answer for April 15: One uncommon word! Check hints, clues, solutions - HT Tech",
+          "description": "Quordle 446 answer for April 15: Today, the puzzle comes with the usual trickery. It is the perfect time to establish a better strategy to excel in the game.",
+          "url": "https://tech.hindustantimes.com/how-to/quordle-446-answer-for-april-15-one-uncommon-word-check-hints-clues-solutions-71681523692082.html",
+          "urlToImage": "https://images.hindustantimes.com/tech/img/2023/04/15/1600x900/HT_Tech_25_1681523717157_1681523717389_1681523717389.jpg",
+          "publishedAt": "2023-04-15T02:03:31Z",
+          "content": "Quordle 446 answer for April 15: Compared to the usual Quordle difficulty, today's puzzle is definitely not the challenging side. Players might find a couple of words extremely confusing while playin… [+1966 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Hindustan Times"
+          },
+          "author": "HT Sports Desk",
+          "title": "'There are many people who...': Kohli's apt reply to Doull's 'milestone' jibe - Hindustan Times",
+          "description": "Kohli was savaged on air by Doull, who lashed out at the star batter for prioritising “personal milestone\". But Kohli has now responded with a fitting reply. | Cricket",
+          "url": "https://www.hindustantimes.com/cricket/there-are-many-people-who-virat-kohli-s-fitting-reply-to-strike-rate-criticisim-after-doull-s-milestone-jibe-101681485231627.html",
+          "urlToImage": "https://www.hindustantimes.com/ht-img/img/2023/04/14/1600x900/doull_kohli_1681144795076_1681485360309_1681485360309.jpg",
+          "publishedAt": "2023-04-15T02:02:01Z",
+          "content": "The debate over strike rate or progression of the metric over the course of a knock or an innings has been among the hotly debated topics amid the thrillers in IPL 2023. Most recently, former RCB ski… [+2254 chars]"
+      },
+      {
+          "source": {
+              "id": null,
+              "name": "Zoom"
+          },
+          "author": "Sushmita Dey",
+          "title": "Shaakuntalam Box Office Collection Day 1: Samantha Ruth Prabhu Starrer Opens LOW, Mints Only Rs 5 crore - Times Now",
+          "description": "Shaakuntalam Box Office Collection Update: Samantha Ruth Prabhu and Dev Mohan starrer hit the theatre on April 14, and minted only Rs 5 crore on Day 1.",
+          "url": "https://www.timesnownews.com/entertainment-news/shaakuntalam-box-office-collection-day-1-samantha-ruth-prabhu-starrer-opens-low-mints-only-rs-5-crore-article-99505693",
+          "urlToImage": "https://static.tnn.in/thumb/msid-99505693,updatedat-1681523818407,width-1280,height-720,resizemode-75/99505693.jpg",
+          "publishedAt": "2023-04-15T01:56:58Z",
+          "content": "Odisha: Curfew Imposed in Sambalpur Following Sporadic Violence After Hanuman Jayanti processions, Man's Death"
+      }
   ]
 }
